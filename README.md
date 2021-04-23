@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour, je m'appelle Flavie DUSSAILLANT</h1>
 <h3 align="center">Etudiante en DUT MMI (Métiers du Multimédia et de l'Internet).</h3>
 
-- 👨‍💻 Tous mes projets sont disponibles [https://dussaillant-flavie-portfolio.netlify.app/index.html](https://dussaillant-flavie-portfolio.netlify.app/index.html)
+- 👨‍💻 Tous mes projets sont disponibles [https://dussaillant-flavie-portfolio.netlify.app/](https://dussaillant-flavie-portfolio.netlify.app/index.html)
 
 - 📫 Vous pouvez me contacter **flavie.dussaillant@mmibordeaux.com**
 
